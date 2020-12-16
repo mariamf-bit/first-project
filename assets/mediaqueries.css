@@ -1,0 +1,116 @@
+@media only screen and (max-width: 600px) {
+    .firstSestion1{
+        padding-right: 128px;
+        display: block!important;
+        padding-top: 0px !important;
+   }
+ 
+  }
+  @media only screen and (max-width: 1024px) {
+    .firstSestion1{
+     
+    text-align: center;   
+    margin-bottom: 10px; 
+    padding-left: 109px;
+   }
+  }
+  @media only screen and (max-width: 1024px) {
+    .firstSestion2{
+     
+    text-align: center;   
+    margin-bottom: 10px; 
+   }
+  }
+  @media only screen and (max-width: 768px) {
+    .firstSestion1{
+     
+    text-align: center;   
+    margin-bottom: 10px !important; 
+    padding-left: 109px !important;
+   }
+  }
+  @media only screen and (max-width:768px) {
+    .firstSestion2{
+     
+    text-align: center;   
+    margin-bottom: 10px !important; 
+   }
+  }
+  @media only screen and (max-width: 1200px) {
+    .search-btn {
+        margin-top: 10px !important;}
+    
+    .navStyle{
+        margin-top: 0 !important;
+    }
+    .navbar-inverse2 .navbar-nav > li > a {
+        padding: 1px!important;
+        
+}
+    .sec-navheader {
+    
+        width: 850px !important;
+        top: 85% !important;
+       
+       
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .navbar-inverse2 .navbar-nav > li > a {
+        padding: 1px!important;
+        
+}
+
+    .sec-navheader {
+    
+    width: 700px !important;
+    top: 93% !important;
+     padding-left: 20px !important;
+
+}
+}
+
+@media only screen and (max-width: 600px) {
+    .nav-head{
+        display: inline-block;
+    }
+    .sec-navheader {
+        top: 88% !important;
+        width: 384px !important;
+        
+       
+       
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .item2{
+        padding-left: 45px !important;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .item3{
+        padding-left: 77px !important;
+    }
+
+}
+@media only screen and (max-width: 1200px) {
+    .item4{
+        padding-left: 111px!important;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .item5{
+        padding-left: 112px!important;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .item7{
+        padding-left: 3px!important;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .item8{
+        margin-left: -34px!important;
+    }
+}
